@@ -16,7 +16,7 @@
 
 ## Live matarials docs
 
-[link](https://docs.google.com/document/d/1UFiHnyKRqgx8Lodsvdzu58LbVjdWHNf-uab2WmhE0A4/edit?usp=sharing)
+[link](https://drive.google.com/drive/folders/1Zmu_r35QFpxAcBPAB4LphFX1cN1wXYVL?usp=drive_link)
 [link](https://drive.google.com/)
 
 ## Git commands
