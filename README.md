@@ -16,8 +16,8 @@
 
 ## Live matarials docs
 
-[link](https://drive.google.com/drive/folders/1Zmu_r35QFpxAcBPAB4LphFX1cN1wXYVL?usp=drive_link)
-[link](https://drive.google.com/)
+[link](https://drive.google.com/file/d/154rT9p8XuoBL0l63ov2eDBkU98Ke8-TP/view?usp=sharing)
+
 
 ## Git commands
 
