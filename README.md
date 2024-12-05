@@ -49,6 +49,29 @@ pip install -r requirements.txt
 python app.py
 ```
 
+## Mlflow dagshub connection uri
+MLFLOW_TRACKING_URI = https://dagshub.com/Sarala9206/mlflowdemo.mlflow
+
+MLFLOW_TRACKING_USERNAME = 
+
+MLFLOW_TRACKING_PASSWORD = 
+
+python script.py
+
+## RUN from bash terminal
+
+export MLFLOW_TRACKING_URI=
+
+export MLFLOW_TRACKING_USERNAME=sarala9206 
+
+export MLFLOW_TRACKING_PASSWORD=
 
 
+import dagshub
+dagshub.init(repo_owner='Sarala9206', repo_name='mlflowdemo', mlflow=True)
+
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)
 
