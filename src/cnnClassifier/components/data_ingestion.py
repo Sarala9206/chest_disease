@@ -28,9 +28,8 @@ class DataIngestion:
             file_id = dataset_url.split("/")[-2]
             prefix = 'https://drive.google.com/uc?/export=download&id='
             gdown.download(prefix+file_id, "Chest-CT-Scan-data.7z")
-           
 
-            logger.info(f"Downloaded data from {dataset_url} into file {zip_download_dir}")
+            logger.info(f"Downloaded data from {dataset_url} into file {Chest-CT-Scan-data.7z}")
 
         except Exception as e:
             raise e
